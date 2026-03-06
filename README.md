@@ -16,12 +16,12 @@
 
 ```markdown
 Year
-	- Month
-		- Day
-		- Day
-		...
-	- Month
+  - Month
+    - Day
+	- Day
 	...
+  - Month
+    ...
 ...
 ```
 
