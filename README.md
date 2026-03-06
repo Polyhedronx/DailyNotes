@@ -14,7 +14,7 @@
 
 这个仓库的组织架构就是简单的 `年 / 月 / 日`。
 
-```yaml
+```markdown
 Year
 	- Month
 		- Day
