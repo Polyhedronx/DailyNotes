@@ -7,7 +7,7 @@ Thumbs.db       # Windows
 .idea/          # IntelliJ
 .vscode/        # VS Code
 *.swp           # Vim
-claude.md       # Claude Code
+CLAUDE.md       # Claude Code
 
 # 日志文件
 *.log
