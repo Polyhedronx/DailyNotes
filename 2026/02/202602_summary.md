@@ -19,7 +19,7 @@
 - **Git 撤回操作** (`20260201`)
   - git checkout . 丢弃工作区所有更改
   - git reset HEAD . 丢弃暂存区所有更改
-  - git reset --hard HEAD^ 回退一次 commit
+  - git reset --soft HEAD^ 回退一次 commit
 
 - **Github 仓库拒绝 SSH 连接** (`20260224`)
   - 检查 git config：git config --global --get-regexp url
